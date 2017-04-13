@@ -6,7 +6,8 @@ Adapted to setup with [PHP Composer](https://getcomposer.org/) ( [install](https
 
 ## usage:
 ```
-$ git clone git@github.com:ptantiku/web-admin-template.git
-$ cd web-admin-template
+$ wget https://github.com/ptantiku/web-admin-template/archive/master.zip
+$ unzip master.zip
+$ cd web-admin-template-master
 $ composer update
 ```
